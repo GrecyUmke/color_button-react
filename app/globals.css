@@ -1,51 +1,59 @@
 *{
     box-sizing:border-box;
-    background-color:black;
 }
 .margin{
     margin:0px;
 }
 .Color-box{
-    border:1px solid white;
+    border:1px solid black;
     height:300px;
     width:500px;   
     margin:0px 350px 0px 350px;
 } 
 .Count-box{
-    border:1px solid white;
+    border:1px solid black;
     height:200px;
     width:500px;   
     margin:10px 350px 0px 350px;
 } 
+.red_count{
+    margin:30px 0px 20px 10px;
+}
+.green_count{
+    margin:0px 0px 20px 10px;
+}
+.blue_count{
+    margin:0px 0px 20px 10px; 
+}
+.yellow_count{
+    margin:0px 0px 20px 10px;
+}
 .Buttons{
-    border:1px solid white;
+    border:1px solid black;
     height:400px;
     width:500px;   
     margin:10px 350px 0px 350px;
 } 
-.box1{
-    border:1px solid white;
+.RED{
+    border:1px solid black;
     height:200px;
     width:249px;
     float:left;
 }
-.text1{
-    color:white;
-}
-.box2{
-    border:1px solid white;
+.GREEN{
+    border:1px solid black;
     height:200px;
     width:249px;
     float:left;
 }
-.box3{
-    border:1px solid white;
+.BLUE{
+    border:1px solid black;
     height:200px;
     width:249px;
     float:left;
 }
-.box4{
-    border:1px solid white;
+.YELLOW{
+    border:1px solid black;
     height:200px;
     width:249px;
     float:left;
