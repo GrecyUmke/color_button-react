@@ -1,0 +1,52 @@
+*{
+    box-sizing:border-box;
+    background-color:black;
+}
+.margin{
+    margin:0px;
+}
+.Color-box{
+    border:1px solid white;
+    height:300px;
+    width:500px;   
+    margin:0px 350px 0px 350px;
+} 
+.Count-box{
+    border:1px solid white;
+    height:200px;
+    width:500px;   
+    margin:10px 350px 0px 350px;
+} 
+.Buttons{
+    border:1px solid white;
+    height:400px;
+    width:500px;   
+    margin:10px 350px 0px 350px;
+} 
+.box1{
+    border:1px solid white;
+    height:200px;
+    width:249px;
+    float:left;
+}
+.text1{
+    color:white;
+}
+.box2{
+    border:1px solid white;
+    height:200px;
+    width:249px;
+    float:left;
+}
+.box3{
+    border:1px solid white;
+    height:200px;
+    width:249px;
+    float:left;
+}
+.box4{
+    border:1px solid white;
+    height:200px;
+    width:249px;
+    float:left;
+}
